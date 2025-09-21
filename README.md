@@ -26,5 +26,4 @@ Aqui estão os 7 projetos desenvolvidos na disciplina.
 - *Instituição:* IFCE - Campus Maranguape  
 - *Professor:* Tomas  
 
----
-✍ README criado para documentar os projetos da disciplina.
+
