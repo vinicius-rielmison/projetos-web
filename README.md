@@ -13,7 +13,7 @@ Aqui estão os 7 projetos desenvolvidos na disciplina.
 2. [Projeto 2 - ](https://7777755134.github.io/projeto-02-web/)
 3. [Projeto 3 - ](https://7777755134.github.io/projeto-03-web/)
 4. [Projeto 4 - ](link-do-projeto-4)
-5. [Projeto 5 - ](link-do-projeto-5)
+5. [Projeto 5 - ](https://7777755134.github.io/projeto-05-web/)
 6. [Projeto 6 - ](link-do-projeto-6)
 7. [Projeto 7 - ](link-do-projeto-7)
 
