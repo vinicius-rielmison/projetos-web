@@ -11,7 +11,7 @@ Aqui estão os 7 projetos desenvolvidos na disciplina.
 
 1. [Projeto 1 - ](https://vinicius-rielmison.github.io/projeto-01-web/)
 2. [Projeto 2 - ](https://vinicius-rielmison.github.io/projeto-02-web/)
-3. [Projeto 3 - ](https://7777755134.github.io/projeto-03-web/)
+3. [Projeto 3 - ](https://vinicius-rielmison.github.io/projeto-03-web/)
 4. [Projeto 4 - ](https://7777755134.github.io/projeto-04-web/)
 5. [Projeto 5 - ](https://7777755134.github.io/projeto-05-web/)
 6. [Projeto 6 - ](https://7777755134.github.io/projeto-06-web/)
