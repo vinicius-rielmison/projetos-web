@@ -9,7 +9,7 @@ Este repositório reúne os *projetos da disciplina de Desenvolvimento Web* do a
 Aqui estão os 7 projetos desenvolvidos na disciplina.  
 (Adicione os links de cada projeto nos espaços abaixo)
 
-1. [Projeto 1 - ](https://7777755134.github.io/projeto-01-web/)
+1. [Projeto 1 - ](https://vinicius-rielmison.github.io/projeto-01-web/)
 2. [Projeto 2 - ](https://7777755134.github.io/projeto-02-web/)
 3. [Projeto 3 - ](https://7777755134.github.io/projeto-03-web/)
 4. [Projeto 4 - ](https://7777755134.github.io/projeto-04-web/)
